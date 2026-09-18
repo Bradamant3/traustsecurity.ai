@@ -1,6 +1,6 @@
 # Traust website
 
-The landing page for [Traust](https://github.com/openshift/traust), an open source security workflow that connects discovery, triage, validation, remediation, verification, and continuous operation.
+The landing page for [Traust](https://github.com/traust-security/traust), an open source security workflow that connects discovery, triage, validation, remediation, verification, and continuous operation.
 
 ## Requirements
 

@@ -8,7 +8,7 @@ import "@fontsource/red-hat-mono/latin-500.css";
 import logoUrl from "./logo.svg";
 import "./styles.css";
 
-const repositoryUrl = "https://github.com/openshift/traust";
+const repositoryUrl = "https://github.com/traust-security/traust";
 const quickstartUrl = `${repositoryUrl}/blob/main/docs/getting-started.md`;
 
 const githubIcon = `
@@ -373,7 +373,7 @@ app.innerHTML = `
             <div class="platform-panel-inner">
               <div class="platform-copy">
                 <p>A typed Go SDK for invoking skills, dispatching asynchronous work, submitting human and machine decisions, and querying findings and integrity.</p>
-                <a href="https://github.com/openshift/traust-sdk">Explore the SDK ${arrowIcon}</a>
+                <a href="https://github.com/traust-security/traust-sdk">Explore the SDK ${arrowIcon}</a>
               </div>
               <div class="code-card" aria-label="Go SDK example">
                 <div class="code-card-bar"><span>audit.go</span><span>Go</span></div>
@@ -413,7 +413,7 @@ app.innerHTML = `
             <div class="platform-panel-inner">
               <div class="platform-copy">
                 <p>Versioned schemas, controlled vocabularies, and typed models define findings from discovery through remediation. Add your own tooling without inventing another translation layer.</p>
-                <a href="https://github.com/openshift/traust-contracts">Explore Contracts ${arrowIcon}</a>
+                <a href="https://github.com/traust-security/traust-contracts">Explore Contracts ${arrowIcon}</a>
               </div>
               <div class="schema-card" aria-label="Contract relationship diagram">
                 <div class="schema-node schema-source">scanner<span>adapter result</span></div>
@@ -446,7 +446,7 @@ app.innerHTML = `
             <div class="platform-panel-inner">
               <div class="platform-copy">
                 <p>An authenticated, append-oriented finding decision ledger with deterministic correlation, replayable state, Merkle tamper detection, and optional Cosign or Sigstore attestation.</p>
-                <a href="https://github.com/openshift/traust-ledger">Explore the Ledger ${arrowIcon}</a>
+                <a href="https://github.com/traust-security/traust-ledger">Explore the Ledger ${arrowIcon}</a>
               </div>
               <div class="ledger-card" aria-label="Ledger chain illustration">
                 <div class="ledger-root"><span>MERKLE ROOT</span><strong>5c82…9af1</strong></div>
